@@ -1,3 +1,5 @@
-git add requirements.txt
-git commit -m "Add geopy to requirements.txt"
-git push origin main
+streamlit
+pandas
+scikit-learn
+joblib
+geopy
